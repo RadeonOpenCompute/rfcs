@@ -1,7 +1,7 @@
-# rfcs
-RFCs for changes Requests for ROCm
 
-# ROCm RFCs
+# RFCs for changes Requests for ROCm
+
+## ROCm RFC Process
 [ROCm RFCs]: #ROCm-rfcs
 
 Many changes, including bug fixes and documentation improvements can be
